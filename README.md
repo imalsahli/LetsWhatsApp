@@ -73,7 +73,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Mohammed Alsahli**
 - GitHub: [@imalsahli](https://github.com/imalsahli)
 
 ---
